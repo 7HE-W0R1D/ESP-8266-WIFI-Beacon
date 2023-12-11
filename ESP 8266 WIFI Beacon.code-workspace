@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "serial:/COM8",
+			"uri": "serial://com8/"
+		},
+		{
+			"name": "ESP 8266 Test",
+			"path": "ESP 8266 Test"
+		}
+	],
+	"settings": {}
+}
